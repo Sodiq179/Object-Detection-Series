@@ -1,0 +1,50 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 147 K-images (2 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/hard_hat_workers549.png: Predicted in 871.152000 milli-seconds.
+helmet: 97%	(left_x:  291   top_y:  199   width:   21   height:   34)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/hard_hat_workers55.png: Predicted in 38.974000 milli-seconds.
+helmet: 94%	(left_x:  123   top_y:  203   width:   19   height:   26)
+helmet: 94%	(left_x:  174   top_y:  196   width:   22   height:   30)
+helmet: 98%	(left_x:  220   top_y:  193   width:   24   height:   36)
+helmet: 98%	(left_x:  261   top_y:  175   width:   31   height:   40)
+helmet: 98%	(left_x:  289   top_y:  179   width:   24   height:   34)
+helmet: 99%	(left_x:  359   top_y:  176   width:   26   height:   40)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/hard_hat_workers550.png: Predicted in 38.863000 milli-seconds.
+helmet: 95%	(left_x:   94   top_y:   68   width:   74   height:   92)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/hard_hat_workers551.png: Predicted in 32.443000 milli-seconds.
+helmet: 99%	(left_x:  233   top_y:   81   width:   81   height:   99)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+data/obj/hard_hat_workers552.png: Predicted in 28.844000 milli-seconds.
+helmet: 97%	(left_x:   24   top_y:  159   width:   22   height:   30)
+helmet: 98%	(left_x:   44   top_y:  150   width:   29   height:   40)
+helmet: 97%	(left_x:   78   top_y:  166   width:   17   height:   29)
+helmet: 41%	(left_x:   97   top_y:   -0   width:   24   height:   19)
+helmet: 95%	(left_x:  102   top_y:  153   width:   22   height:   29)
+helmet: 99%	(left_x:  136   top_y:  135   width:   51   height:   68)
+helmet: 99%	(left_x:  258   top_y:  125   width:   45   height:   60)
+helmet: 33%	(left_x:  260   top_y:    0   width:   35   height:   14)
+helmet: 34%	(left_x:  317   top_y:  182   width:   11   height:   14)
+helmet: 32%	(left_x:  330   top_y:  172   width:   16   height:   17)
+head: 59%	(left_x:  330   top_y:  172   width:   15   height:   17)
+Enter Image Path: 
