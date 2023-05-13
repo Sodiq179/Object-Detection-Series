@@ -2,16 +2,27 @@
 
 This repo contains the codes written during my exploration of different object detection models. The series teaches about applying object detection models to various tasks in computer vision. Along the way, I learnt how to use the YOLO architectures as well as the Google Colab.
 
-
 ## Overview of Computer Vision
+Computer vision is an interdisciplinary field of study that focuses on enabling machines to interpret and understand visual data such as images and videos. The goal of computer vision is to develop algorithms and techniques that allow computers to extract meaningful information from visual data, similar to the way humans perceive and understand the world around them.
 
-Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information.
+Some of the key tasks in computer vision include:
+- **Image Classification**: involves categorizing an image into one or more predefined classes or categories. For example, image classification can be used to identify if a Magnetic Resonance Imaging (MRI) scan of the brain has a tumor or not.
 
-The following is a list of common Computer Vision tasks, with some examples of each:
+<p align="center">
+    <img width="400" src=images/img1.PNG alt="MRI Classification">
+</p>
 
-- **Image Classification**: Classifying images into different classes e.g classification of cat and dog images
-- **Image Segmentation**: Method of dividing a digital image into subgroups called image segments, reducing the complexity of the image and enabling further processing or analysis of each image segment. 
-- **Object Detection**: Object Detection is a computer vision task in which the goal is to detect and locate objects of interest in an image or video.
+- **Object Detection**: involves identifying and locating objects within an image or video. For example, object detection can be used to locate and identify brain tumors within Magnetic Resonance Imaging (MRI) scans using bounding boxes. 
+
+<p align="center">
+    <img width="400" src=images/img2.PNG alt="MRI Detection">
+</p>
+
+- **Segmentation**: involves dividing an image into multiple segments or regions, each of which represents a different object or part of the image. For example, image segmentation can be used to identify and group pixels in an MRI scan as a region with tumor and region without tumor.
+
+<p align="center">
+    <img width="400" src=images/img3.PNG alt="MRI Segmentation">
+</p>
 
 ## Overview of Object Detection
 
